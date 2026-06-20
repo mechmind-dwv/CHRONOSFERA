@@ -1,0 +1,6 @@
+{
+  "name": "Chronosfera",
+  "description": "Monitor de Acoplamiento Solar y Carga Disipativa para la Validación Ciudadana de la Vida como Imperativo Entrópico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
